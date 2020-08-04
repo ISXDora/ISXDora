@@ -10,7 +10,7 @@ Você me encontra através desses canais:
     Linkedin: https://www.linkedin.com/in/isadoraxavier/ <br />
     Instagram comercial: https://www.instagram.com/amecomfeltro/
 
-Te ajudo com Empreendedorismo, HTML, CSS, um pouco de Javascript & Python 😊🤗👩‍💻🚀💕
+Te ajudo com Empreendedorismo, HTML, CSS, um pouco de Javascript & Python 😊🤗👩‍💻🚀💕<br/>
 Na luta aprendendo JS, SQL, Git e GitHub 🤟
 
 👋
