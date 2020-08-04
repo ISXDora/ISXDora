@@ -1,6 +1,5 @@
-### Oiie, bom te ver por aqui! 👋
-
-<!-- Me chamo Isadora e tenho 28 anos, moro atualmente em Extremoz no Rio Grande do Norte e estou estudando junto com o IFRN o curso técnico de Informática para internet, estou no 2º período aprendendo conceitos de Arquitetura da Informação e Banco de dados, também sou aluna do @maykbrito instrutor na Rocketseat do bootcamp Lauchbase.
+### Oiie, bom te ver por aqui! 
+Me chamo Isadora e tenho 28 anos, moro atualmente em Extremoz no Rio Grande do Norte e estou estudando junto com o IFRN o curso técnico de Informática para internet, estou no 2º período aprendendo conceitos de Arquitetura da Informação e Banco de dados, também sou aluna do @maykbrito instrutor na Rocketseat do bootcamp Lauchbase.
 
 💕✂️ Também sou artesã e produzo quietbooks e brinquedos criativos, além de recursos pedagógicos para profissionais da área da educação e saúde. 
 
@@ -12,7 +11,10 @@ Você me encontra através desses canais:
     Instagram comercial: https://www.instagram.com/amecomfeltro/
 
 Posso te ajudar com HTML, CSS, Python, Javascript e empreendedorismo. 😊🤗👩‍💻🚀💕
+👋
 
+
+<!-- 
 
 
 
