@@ -6,11 +6,13 @@ Me chamo Isadora e tenho 28 anos, moro atualmente em Extremoz no Rio Grande do N
 💻 Trabalho meio período freelancer com a Dois A Tecnologia, é remoto e no helpdesk. Gosto de resolver os problemas dos usuários, mas prefiro resolver os erros dos meus códigos rsrs, e estou estudando para me aprimorar e evoluir como Dev.
 
 Você me encontra através desses canais:
-    Email: isinhasena@gmail.com
-    Linkedin: https://www.linkedin.com/in/isadoraxavier/
+    Email: isinhasena@gmail.com <br />
+    Linkedin: https://www.linkedin.com/in/isadoraxavier/ <br />
     Instagram comercial: https://www.instagram.com/amecomfeltro/
 
-Posso te ajudar com HTML, CSS, Python, Javascript e empreendedorismo. 😊🤗👩‍💻🚀💕
+Te ajudo com Empreendedorismo, HTML, CSS, um pouco de Javascript & Python 😊🤗👩‍💻🚀💕
+Na luta aprendendo JS, SQL, Git e GitHub 🤟
+
 👋
 
 
