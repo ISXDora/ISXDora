@@ -1,16 +1,19 @@
-### Hi there 👋
+### Oiie, bom te ver por aqui! 👋
 
-<!--
-**ISXDora/ISXDora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Me chamo Isadora e tenho 28 anos, moro atualmente em Extremoz no Rio Grande do Norte e estou estudando junto com o IFRN o curso técnico de Informática para internet, estou no 2º período aprendendo conceitos de Arquitetura da Informação e Banco de dados, também sou aluna do @maykbrito instrutor na Rocketseat do bootcamp Lauchbase.
 
-Here are some ideas to get you started:
+💕✂️ Também sou artesã e produzo quietbooks e brinquedos criativos, além de recursos pedagógicos para profissionais da área da educação e saúde. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💻 Trabalho meio período freelancer com a Dois A Tecnologia, é remoto e no helpdesk. Gosto de resolver os problemas dos usuários, mas prefiro resolver os erros dos meus códigos rsrs, e estou estudando para me aprimorar e evoluir como Dev.
+
+Você me encontra através desses canais:
+    Email: isinhasena@gmail.com
+    Linkedin: https://www.linkedin.com/in/isadoraxavier/
+    Instagram comercial: https://www.instagram.com/amecomfeltro/
+
+Posso te ajudar com HTML, CSS, Python, Javascript e empreendedorismo. 😊🤗👩‍💻🚀💕
+
+
+
+
 -->
