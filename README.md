@@ -3,9 +3,8 @@ Me chamo Isadora e tenho 28 anos, moro atualmente em Extremoz no Rio Grande do N
 
 💕✂️ Também sou artesã e produzo quietbooks e brinquedos criativos, além de recursos pedagógicos para profissionais da área da educação e saúde. 
 
-💻 Trabalho meio período freelancer com a Dois A Tecnologia, é remoto e no helpdesk. Gosto de resolver os problemas dos usuários, mas prefiro resolver os erros dos meus códigos rsrs, e estou estudando para me aprimorar e evoluir como Dev.
+💻 Estou estudando para me aprimorar como Dev e resolver problemas com criatividade através de programas e aplicativos, além de contribuir ativamente na comunidade artesã com softawres de apoio de cálculo do artesanato, minigerenciadores de clientes e atendimento. É sonho ainda, mas que em breve pretendo colocar em prática. 
 
-Você me encontra através desses canais:
     Email: isinhasena@gmail.com <br />
     Linkedin: https://www.linkedin.com/in/isadoraxavier/ <br />
     Instagram comercial: https://www.instagram.com/amecomfeltro/
