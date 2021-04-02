@@ -6,7 +6,7 @@ No momento estou estudando sobre:
 - HTML
 - CSS
 - Javascript
-- Instalação e configurações básicas de servidores
+- Instalação e configurações de servidores
 - Análise e Projetos Orientado a Objetos
 
 <!-- 
