@@ -1,13 +1,7 @@
-# Olá 👋
+# Oi 👋
 
-Me chamo Isadora, tenho 28 anos e moro em Extremoz-RN atualmente. Estou no 3° período do curso Informática para Internet pelo IFRN na modalidade técnico, e também sou aluna da escola de programação Rocketseat 🤟
-
-No momento estou estudando sobre:
-- HTML
-- CSS
-- Javascript
-- Instalação e configurações de servidores
-- Análise e Projetos Orientado a Objetos
+Me chamo Isadora, e estou em desenvolvimento junto com os meus repositórios.
+Desbravando um pouco mais a cada dia desse universo de possibilidades!
 
 <!-- 
 
